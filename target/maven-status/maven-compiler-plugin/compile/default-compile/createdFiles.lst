@@ -1,0 +1,11 @@
+com\qa\Extentreport\ExtentReporterNG.class
+com\qa\Pages\LoginPage.class
+com\qa\Pages\Manual.class
+com\qa\Pages\Items.class
+com\qa\Pages\Suppliers.class
+com\qa\Pages\SourceForece.class
+com\qa\util\TestUtils.class
+com\qa\Pages\HomePage.class
+com\qa\Pages\Logout.class
+com\qa\base\TestBase.class
+com\qa\Pages\Customers.class
